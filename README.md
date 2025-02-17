@@ -5,7 +5,7 @@ Estudante de engenharia de software, iniciando no mundo de desenvolvimento e pro
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcides-freitas-5aa407219/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://https://www.instagram.com/alcides.freitas04/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/alcides.freitas04/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alcides.freitas09@gmail.com)
 	
 ## Competências
